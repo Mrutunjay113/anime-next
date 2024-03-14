@@ -2,7 +2,7 @@
   "node": {
     "13a76c49cd9d042fa836b38352dd84cd77f792d4": {
       "workers": {
-        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmrutu%5C%5COneDrive%5C%5CDesktop%5C%5CNext%20Js%20practice%5C%5Cmovie%20app%5C%5Canime-next%5C%5Capp%5C%5Caction.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22fetchAnime%22%5D%5D%5D&__client_imported__=!"
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmrutu%5C%5COneDrive%5C%5CDesktop%5C%5CNext%20Js%20practice%5C%5Cmovie%20app%5C%5Canime-next%5C%5Capp%5C%5Caction.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22fetchAnime%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
         "app/page": "rsc"
@@ -10,7 +10,23 @@
     },
     "83bd94d9630af153b1103d8ab73812d7bd4a3bc0": {
       "workers": {
-        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmrutu%5C%5COneDrive%5C%5CDesktop%5C%5CNext%20Js%20practice%5C%5Cmovie%20app%5C%5Canime-next%5C%5Capp%5C%5Caction.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22fetchAnime%22%5D%5D%5D&__client_imported__=!"
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmrutu%5C%5COneDrive%5C%5CDesktop%5C%5CNext%20Js%20practice%5C%5Cmovie%20app%5C%5Canime-next%5C%5Capp%5C%5Caction.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22fetchAnime%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "6cc4723f4a18b6626bc5e558064842700fc25ce0": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmrutu%5C%5COneDrive%5C%5CDesktop%5C%5CNext%20Js%20practice%5C%5Cmovie%20app%5C%5Canime-next%5C%5Capp%5C%5Caction.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22fetchAnime%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "feac20726fc90e2d2d0ed347202ebb731620ed77": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmrutu%5C%5COneDrive%5C%5CDesktop%5C%5CNext%20Js%20practice%5C%5Cmovie%20app%5C%5Canime-next%5C%5Capp%5C%5Caction.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22fetchAnime%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
         "app/page": "rsc"
